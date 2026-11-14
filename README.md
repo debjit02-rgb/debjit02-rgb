@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://avatars.githubusercontent.com/u/257581312?v=4" alt="Debjit Modak" width="120" height="120" />
+</div>
+
+<div align="center">
   <img src="./solar-system.svg" alt="Debjit Modak's solar system profile" width="100%" />
 </div>
 
