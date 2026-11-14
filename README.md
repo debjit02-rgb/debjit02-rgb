@@ -9,6 +9,36 @@
 <br />
 
 <div align="center">
+  <em>I am the sun; my languages are the planets and my projects their moons.</em>
+</div>
+
+<br />
+
+## ☀️ The Sun
+
+### Debjit Modak
+
+JavaScript developer building AI-powered products, full-stack applications, and useful tools from Kolkata.
+
+`AI/ML` · `Full-stack` · `Open source` · `Kolkata`
+
+### 🪐 My Orbit
+
+| Planet | Orbit meaning |
+| --- | --- |
+| Python | AI, data, and automation |
+| JavaScript | Web applications and Apollo |
+| CSS | Interface design |
+| C++ | Algorithms and systems |
+| C | Foundations and problem solving |
+
+### ☄️ Recent Comets
+
+VITAL · Apollo · LeetCode · AI Nexus Portfolio
+
+<br />
+
+<div align="center">
   <h2>🚀 Building useful things with AI, data, and the web.</h2>
   <p>AI/ML enthusiast · Full-stack developer · Open-source learner from Kolkata</p>
 </div>
