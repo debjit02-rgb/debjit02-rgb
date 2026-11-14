@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./solar-system.svg" alt="Debjit Modak's solar system profile" width="100%" />
+  <img src="./solar-system.svg?v=ee23e446" alt="Debjit Modak's solar system profile" width="100%" />
 </div>
 
 <br />
